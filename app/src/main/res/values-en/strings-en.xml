@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Reviewer</string>
+    <string name="title_home">HOME</string>
+    <string name="title_dashboard">MOVIE</string>
+    <string name="title_notifications">TV SHOW</string>
+    <string name="judul_movie">Title</string>
+    <string name="overview_show">Tv Show Description</string>
+    <string name="banner_tvshow">Banner Tv Show</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="banner_movie">Movie Banner</string>
+
+    <string name="image">poster</string>
+    <string name="overview">Overview</string>
+    <string name="noHaveAcces">No Internet Connection</string>
+    <string name="favorite">FAVOURITE</string>
+    <string name="release">Release Date :</string>
+    <string name="fav_list">Favorite List</string>
+    <string name="title_activity_detail_favorite">DetailFavorite</string>
+    <string name="type">Type :</string>
+    <string name="successs_add">Success Add Movie To Favourite</string>
+    <string name="confirmation_delete">Are You Sure to Delete This Favourite Movie?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="success_delete_favorite">Success Delete Favorite Movie</string>
+    <string name="appwidget_text">Favourite Widget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="search">Search</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_success_Favorite">Success Add to Favourite List</string>
+    <string name="delete">Delete From Favourite</string>
+    <string name="empty_text">Empty</string>
+    <string name="failed_delete_favorite">Failed Delete Favourite Item</string>
+    <string name="dailyMessage">Please Come Back, New movie waiting you</string>
+    <string name="release_today">Release Today</string>
+    <string name="desc_release">You will get notification new release today every 08:00 AM</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="desc_daily_reminder">You will get reminder to visit this app every 07:00 AM</string>
+    <string name="setting">Setting</string>
+</resources>

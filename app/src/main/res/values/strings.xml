@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Movie Reviewer</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Film</string>
+    <string name="title_notifications">Serial TV</string>
+    <string name="judul_movie">Judul</string>
+    <string name="overview_show">Deskripsi Serial Tv</string>
+    <string name="banner_tvshow">Banner Serial Tv</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="banner_movie">Banner Film</string>
+
+    <string name="image">poster</string>
+    <string name="overview">Deskripsi</string>
+    <string name="noHaveAcces">Koneksi Internet Tidak Tersedia</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="release">Release Date :</string>
+    <string name="fav_list">Favorite List</string>
+    <string name="title_activity_detail_favorite">DetailFavorite</string>
+    <string name="type">Type :</string>
+    <string name="successs_add">Berhasil Menambahkan Film Favorite</string>
+    <string name="confirmation_delete">Apakah Anda Yakin Menghapus Favorit Film ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="success_delete_favorite">Berhasil menghapus favorit film</string>
+    <string name="appwidget_text">Widget Favourite</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="search">Cari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msg_success_Favorite">Berhasil Menambahkan</string>
+    <string name="delete">Hapus dari favorit</string>
+    <string name="empty_text">Kosong</string>
+    <string name="failed_delete_favorite">Gagal Menghapus Favorite</string>
+    <string name="dailyMessage">Yuk Buka aplikasi, Film Terbaru menunggu anda</string>
+    <string name="release_today">Pengingat Release Film</string>
+    <string name="desc_release">Anda akan mendapatkan notifikasi release film terbaru setiap hari pukul 08:00</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="desc_daily_reminder">Anda akan mendapatkan notifikasi untuk mengujungi aplikasi setiap hari pukul 07:00</string>
+    <string name="setting">Pengaturan</string>
+
+</resources>
